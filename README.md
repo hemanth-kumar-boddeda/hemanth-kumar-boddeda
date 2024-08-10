@@ -10,15 +10,14 @@
 
 - 💬 Ask me about **C,C++,Java,SpringBoot,Angular,MySQl,AWS**
 
-- 📫 How to reach me **hemanthkumarboddeda24@gmail.com**
+- 📫 How to reach me **hemanthk.boddeda@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/hemanth-kumar-2853a7180/](https://www.linkedin.com/in/hemanth-kumar-2853a7180/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/hemanth-kumar-boddeda/](https://www.linkedin.com/in/hemanth-kumar-boddeda/)
 
 - ⚡ Fun fact **I'm a coffee lover and I code better with a cup of coffee by my side**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/hemanth-kumar-2853a7180/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hemanth-kumar-2853a7180/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/hemanth-kumar-boddeda/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hemanth-kumar-boddeda/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
